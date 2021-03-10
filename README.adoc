@@ -1,0 +1,5 @@
+= Logo
+
+Simple exercises to teach basic programming concepts using Python implementation of https://en.wikipedia.org/wiki/Logo_%28programming_language%29[Logo].
+
+Requires Python 3.7 or older to use.
